@@ -14,7 +14,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/revel/modules/static/app/model"
+	"github.com/lujiacn/revstatic/app/model"
 	"github.com/revel/revel"
 )
 
