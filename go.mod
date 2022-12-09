@@ -4,7 +4,7 @@ go 1.18
 
 replace github.com/revel/revel => github.com/lujiacn/revel v1.1.2-0.20221113063932-5dcd8fe2d2f7
 
-require github.com/revel/revel v1.0.0
+require github.com/revel/revel v1.1.0
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect
